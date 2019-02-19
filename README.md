@@ -1,4 +1,4 @@
-#Como rodar#
+ # Como rodar #
 
 - Colocar a pasta do projeto no www do Wamp;
 - Executar scripts da pasta BANCOTCC (MySQL);
